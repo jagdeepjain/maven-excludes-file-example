@@ -1,0 +1,3 @@
+/Users/jagdeepjain/github/maven-excludes-file-example/src/test/java/org/example/maven/SmokeTest.java
+/Users/jagdeepjain/github/maven-excludes-file-example/src/test/java/org/example/maven/RegressionTest.java
+/Users/jagdeepjain/github/maven-excludes-file-example/src/test/java/org/example/maven/SkipTest.java
