@@ -1,4 +1,4 @@
-package org.example.maven;
+package org.jagdeep.example.maven.exclude.files.tests;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class SkipTest 
+public class RegressionTest 
     extends TestCase
 {
     /**
@@ -15,7 +15,7 @@ public class SkipTest
      *
      * @param testName name of the test case
      */
-    public SkipTest( String testName )
+    public RegressionTest( String testName )
     {
         super( testName );
     }
@@ -25,7 +25,7 @@ public class SkipTest
      */
     public static Test suite()
     {
-        return new TestSuite( SkipTest.class );
+        return new TestSuite( RegressionTest.class );
     }
 
     /**
