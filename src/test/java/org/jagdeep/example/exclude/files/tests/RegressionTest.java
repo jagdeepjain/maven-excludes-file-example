@@ -1,4 +1,4 @@
-package org.jagdeep.example.maven.exclude.files.tests;
+package org.jagdeep.example.exclude.files.tests;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

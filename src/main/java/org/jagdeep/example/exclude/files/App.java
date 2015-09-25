@@ -1,4 +1,4 @@
-package org.jagdeep.example.maven.exclude.files;
+package org.jagdeep.example.exclude.files;
 
 public class App {
     public void doNothing() {
